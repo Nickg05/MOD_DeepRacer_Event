@@ -11,7 +11,10 @@ Track analysis and speed profiling:
 
 Track Layout	Speed Heatmap 1	Speed Heatmap 2
 
-	
+| Waypoints on Track | Speed Heatmap 1 | Speed Heatmap 2 |
+|:------:|:-----------:|:-----------:|
+| ![alt text](image.png) | ![alt text](image-1.png) | ![alt text](image-2.png) |
+
 	
 🧠 Models Overview
 
